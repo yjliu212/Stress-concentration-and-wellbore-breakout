@@ -8,7 +8,7 @@ We can see that the highest EHS happens at 90 degree which is at the Shmin direc
 
 ![image](https://github.com/user-attachments/assets/e81ea976-fe8a-4215-b223-8e7039c89b16)
 
-To limit the wellbore breakout width, we could also increase the mud weight. Because, as the mud weight increase, the EHS around the wellbore wall will decrease, as shown in the figure below. As MW increase from 4000 psi to 9000 psi, the breakout width decreased from 80 to 50 degree for a rock strength C0 = 15000 psi type of rock.
+To limit the wellbore breakout width, we could also increase the mud weight. Because, as the mud weight increase, the EHS around the wellbore wall will decrease, as shown in the figure below. As MW increased from 4000 psi to 9000 psi, the breakout width decreased from 80 to 50 degree for a rock strength C0 = 15000 psi type of rock.
 
 ![image](https://github.com/user-attachments/assets/9d7de49b-40c3-44aa-95b9-077fbfb745d3)
 
