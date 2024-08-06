@@ -20,7 +20,8 @@ Drilling induced tensile fracture only occurs at near wellbore area at the Shmax
 
 ![image](https://github.com/user-attachments/assets/246f6308-c73e-4cdb-8ca4-3e7c38063f66)
 
-The equations for computing these calculations are captured in the Python Notebook.
+The equations for computing these calculations are captured in the Python Notebook Stress_concentration.ipynb.
+
 
 
 
