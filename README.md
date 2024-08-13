@@ -12,7 +12,7 @@ To limit the wellbore breakout width, we could also increase the mud weight. Bec
 
 ![image](https://github.com/user-attachments/assets/9d7de49b-40c3-44aa-95b9-077fbfb745d3)
 
-Also, notice the EHS at 0 degree deceased from 0 to -5000 psi as MW increased. This will cause tensile fracture at the Shmax direction at the wellbore wall, a so called drilling induced tensile fracture. 
+Also, notice the EHS at 0 degree deceased from 0 to -5000 psi as MW increased. This will cause tensile fracture at the Shmax direction at the wellbore wall, a so-called drilling induced tensile fracture. 
 
 Both the wellbore breakout and drilling induced tensile fracture can be visualized in the borehole image log, which is a very important data to analyze stress field and rock strength C0.
 
