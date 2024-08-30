@@ -1,6 +1,6 @@
 # Stress-concentration-and-wellbore-breakout
 
-Stress concentration around a wellbore happens when there is a significant difference between the two horizontal stress (Shmin and Shmax).
+Stress concentration around a wellbore occurs when there is a significant difference between the two horizontal stress (Shmin and Shmax).
 
 To better understand stress concentration around wellbore wall, we could calculate the Effective Hoop Stress (EHS) around the wellbore wall as a function of the azimuth or angle from the principle horizontal stress direction (Shmax or Shmin). For example, in the Python Notebook uploaded, the Effective Hoop Stress around wellbore wall is computed and ploted as a function of azimuth (angle from max horizontal stress direction, Shmax), so 0 and 180 degree refer to Shmax direction, and 90 degree refers to Shmin direction, as shown in the figure below. 
 
