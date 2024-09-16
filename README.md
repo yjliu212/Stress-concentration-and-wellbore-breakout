@@ -21,7 +21,7 @@ Both the wellbore breakout and drilling induced tensile fracture can be visualiz
 
 Drilling induced tensile fracture only occurs at near wellbore area at the Shmax direction, since as moving away from the wellbore wall, EHS retures to above 0 very quickly, as shown in the figure below.
 
-![image](https://github.com/user-attachments/assets/246f6308-c73e-4cdb-8ca4-3e7c38063f66)
+![image](https://github.com/user-attachments/assets/f086470f-556c-4119-be4e-6f13ae1a9985)
 
 Here the x axis is the normailized distance from the welbore wall. r=1 means at the wellbore wall. 
 
