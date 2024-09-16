@@ -8,8 +8,8 @@ To better understand stress concentration around wellbore wall, we could calcula
 
 
 We can see that the highest EHS happens at 90 degree which is at the Shmin direction. Physically, this means that there is a very high stress concentrated at the Shmin direction. With such a high Hoop Stress, wellbore wall could break and cause wellbore breakout. For example, if the rock strengh C0 is about 20000 psi, the breakout width will be about 60 degree (from 70 to 110 degree), but if the rock strength C0 is about 15000 psi, the breakout width will be increased to 80 degree (from 50 to 130 degree), as shown in the figure below.
+![image](https://github.com/user-attachments/assets/b551d275-bd44-499b-99de-0ce5c75f4f44)
 
-![image](https://github.com/user-attachments/assets/f9b23dd9-1904-4bf3-9b25-6023ac4cb96e)
 
 To limit the wellbore breakout width, we could also increase the mud weight. Because, as the mud weight increase, the EHS around the wellbore wall will decrease, as shown in the figure below. As MW increased from 4000 psi to 9000 psi, the breakout width decreased from 80 to 50 degree for a rock with strength C0 = 15000 psi.
 
