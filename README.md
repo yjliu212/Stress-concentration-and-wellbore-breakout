@@ -23,7 +23,7 @@ Drilling induced tensile fracture only occurs at near wellbore area at the Shmax
 
 ![image](https://github.com/user-attachments/assets/f086470f-556c-4119-be4e-6f13ae1a9985)
 
-Here the x axis is the normailized distance from the welbore wall. r=1 means at the wellbore wall. 
+Here the x axis is the normailized distance from the welbore wall. R=1 means at the wellbore wall. 
 
 The equations for computing these calculations are captured in the uploaded Python Notebook: [Stress_concentration.ipynb](/Stress_concentration.ipynb).
 
