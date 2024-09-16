@@ -4,7 +4,8 @@ Stress concentration around a wellbore occurs when there is a significant differ
 
 To better understand stress concentration around wellbore wall, we could calculate the Effective Hoop Stress (EHS) around the wellbore wall as a function of the azimuth or angle from the principle horizontal stress direction (Shmax or Shmin). For example, in the Python Notebook:[Stress_concentration.ipynb](/Stress_concentration.ipynb), the Effective Hoop Stress around wellbore wall is computed and ploted as a function of azimuth (angle from max horizontal stress direction, Shmax), so 0 and 180 degree refer to Shmax direction, and 90 degree refers to Shmin direction, as shown in the figure below. 
 
-![image](https://github.com/user-attachments/assets/f5669773-9d1c-49f1-bf6e-d4f5fdafbd9a)
+![image](https://github.com/user-attachments/assets/e0fddfa4-a7bc-4ad2-b341-09fc5e30db0d)
+
 
 We can see that the highest EHS happens at 90 degree which is at the Shmin direction. Physically, this means that there is a very high stress concentrated at the Shmin direction. With such a high Hoop Stress, wellbore wall could break and cause wellbore breakout. For example, if the rock strengh C0 is about 20000 psi, the breakout width will be about 60 degree (from 70 to 110 degree), but if the rock strength C0 is about 15000 psi, the breakout width will be increased to 80 degree (from 50 to 130 degree), as shown in the figure below.
 
